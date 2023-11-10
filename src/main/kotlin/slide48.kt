@@ -1,4 +1,18 @@
 
+//fun main() {
+//    // Cria instâncias da classe Pessoa com atributos.
+//    val p1 = Pessoa("Maria", 60f, 1.70f)
+//    val p2 = Pessoa("Joaquim", 70f, 1.75f)
+//    val p3 = Pessoa("Marcos", 80f, 1.80f)
+//
+//    // Printa o nome de cada objeto Pessoa.
+//    println(p1.nome)  // Saída: Maria
+//    println(p2.nome)  // Saída: Joaquim
+//    println(p3.nome)  // Saída: Marcos
+//}
+//
+//// Define a classe Pessoa com 3 parâmetros.
+//class Pessoa(var nome: String, var peso: Float, var altura: Float)
 
 fun main() {
     val bruno = Funcionario("Lúcia", 1999) // Instância de Humano.

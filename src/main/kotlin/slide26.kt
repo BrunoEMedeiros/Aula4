@@ -1,3 +1,9 @@
+/*fun main() {
+    val a: Int //define-se um variavel do tipo integer
+    //(...)
+    a = 1 //atribui-se o valor 1 a variavel
+    print(a) //printa a variavel
+}*/
 
 fun main() {
     val a: Int //define-se um variavel do tipo integer

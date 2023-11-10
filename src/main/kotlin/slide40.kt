@@ -1,4 +1,31 @@
 
+//fun main() {
+//    // Declara uma lista do tipo `String` para armazenar as siglas dos estados brasileiros.
+//    val estados = ArrayList<String>()
+//
+//    // Adiciona as siglas dos estados brasileiros à lista.
+//    estados.add("RS")
+//    estados.add("MG")
+//    estados.add("SP")
+//    estados.add("RJ")
+//
+//    // Printa as siglas dos estados brasileiros na ordem original.
+//    estados.forEach { println(it) }
+//    println("_____________")
+//
+//    // Ordena as siglas dos estados brasileiros em ordem alfabética.
+//    estados.sort()
+//
+//    // Printa as siglas dos estados brasileiros na ordem alfabética.
+//    estados.forEach { println(it) }
+//    println("_____________")
+//
+//    // Ordena as siglas dos estados brasileiros em ordem inversa.
+//    estados.sortDescending()
+//
+//    // Printa as siglas dos estados brasileiros em ordem inversa.
+//    estados.forEach { println(it) }
+//}
 fun main() {
     // Declara uma lista para armazenar os números de telefone.
     val numeros = ArrayList<String>()

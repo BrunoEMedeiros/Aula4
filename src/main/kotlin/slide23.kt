@@ -1,9 +1,13 @@
+/*fun main() {
+    //comentário de uma linha
+    println("Hello World!")
+    /*comentário
+    de várias
+    linhas*/
+    print("Meu nome é ")
+    print("Kotlin")
+}*/
 
-//Comentario em uma linha
-
-/*
-    Comentario em varias linhas
-*/
 
 fun main() {
     val nome = "Bruno M" //Criando uma variavel de tipo generico

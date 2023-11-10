@@ -1,5 +1,17 @@
 
-
+//fun main() {
+//    // Define o valor da variavel
+//    var a = 1 + 1
+//
+//    // Printa o valor da variável
+//    println(a)
+//
+//    // Abaixo vários modos de printar a variavel
+//    println("result: "+a)
+//    println("result: $a")
+//    println("result: ${a}")
+//    println("result: ${a+1}")// printa o valor +1
+//}
 fun main() {
     // Define o valor da variavel
     var a = 1 + 1

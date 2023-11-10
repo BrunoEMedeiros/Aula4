@@ -1,4 +1,20 @@
-
+//fun main() {
+//    // Cria instâncias da classe Pessoa com diferentes atributos.
+//    val p1 = Pessoa("Maria", 60f, 1.70f)
+//    val p2 = Pessoa("Joaquim", 70f, 1.75f)
+//    val p3 = Pessoa("Marcos", 80f, 1.80f)
+//
+//    // Imprime o nome e o IMC de cada pessoa.
+//    println("${p1.nome} tem IMC = ${p1.imc()}")
+//    println("${p2.nome} tem IMC = ${p2.imc()}")
+//    println("${p3.nome} tem IMC = ${p3.imc()}")
+//}
+//
+//// Define a classe Pessoa com 3 parâmetros e um método para calcular o IMC.
+//class Pessoa(val nome: String, val peso: Float, val altura: Float) {
+//    // Método que calcula e retorna o IMC da pessoa.
+//    fun imc() = peso / (altura * altura)
+//}
 fun main() {
     // Cria instâncias da classe Aluno com diferentes atributos.
     val a1 = Aluno(nome = "Bruno", nota1 = 9.1f, nota2 = 8.2f)
